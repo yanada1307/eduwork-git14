@@ -1,2 +1,1 @@
-Ini file 1 awal (sebelum diubah)
-Tugas 14 : Git Fundamental --> Yanada
+Saya belajar git
