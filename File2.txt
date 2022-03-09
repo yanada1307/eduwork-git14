@@ -1,2 +1,3 @@
-Ini file 2 awal (sebelum diubah)
+Ini file 2 SETELAH DIUBAH
 Tugas 14 : Git Fundamental --> Yanada
+
